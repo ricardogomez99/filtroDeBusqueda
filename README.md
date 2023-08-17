@@ -1,7 +1,7 @@
-# filtroDeBusqueda
+# Filtro de busqueda
 Desarrollo de una búsqueda de filtros y CRUD con Spring Data JPA, Thymeleaf
 
-Desarrollo de una filtro de busqueda en Spring Boot La realización de una agenda de contactos utilizando CRUD con Spring Data JPA , Hibernate , MySQL y Thymeleaf
+Desarrollo de una filtro de busqueda en Spring Boot utilizando CRUD con Spring Data JPA , Hibernate , MySQL y Thymeleaf
 
 Descripción del Software de agenda de contactos!!!Recordar que lo primero es configurar la conexión a la base de datos, con sus propias crendenciales.
 
